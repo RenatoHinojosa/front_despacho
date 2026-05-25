@@ -61,7 +61,7 @@ export const FormDespacho = ({ venta, onClose }) => {
           Ingreso de orden de despacho
         </div>
         <div className="mb-5">
-          <label className="block font-bold mb-2">Fecha de despacho</label>
+          <label className="block font-bold mb-2">Fecha del despacho hola mundo :3</label>
           <input
             type="date"
             placeholder="Ingresa fecha de despacho"
